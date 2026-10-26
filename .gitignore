@@ -1,0 +1,10 @@
+data_fabio/
+data_raw/
+data_derived/
+results/
+figures/
+source_data/
+logs/
+__pycache__/
+*.pyc
+.DS_Store
